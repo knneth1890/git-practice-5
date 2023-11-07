@@ -6,3 +6,5 @@ orange
 pink
 grey
 yellow
+black
+white
